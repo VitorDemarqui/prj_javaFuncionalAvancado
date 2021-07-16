@@ -1,3 +1,5 @@
+package Aula1;
+
 public class InterfaceFuncional {
     public static void main(String[] args){
         String teste = "testando";

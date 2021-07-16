@@ -1,4 +1,4 @@
-package fatorialRecursivo;
+package Aula1.fatorialRecursivo;
 
 public class FatorialTailCall {
     public static void main(String[] args){

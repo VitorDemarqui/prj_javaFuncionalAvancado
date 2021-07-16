@@ -1,4 +1,4 @@
-package imperativoEFuncional;
+package Aula1.imperativoEFuncional;
 
 import java.util.function.UnaryOperator;
 

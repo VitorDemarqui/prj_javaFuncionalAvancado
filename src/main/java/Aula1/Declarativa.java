@@ -1,3 +1,5 @@
+package Aula1;
+
 import java.util.function.Function;
 
 public class Declarativa {

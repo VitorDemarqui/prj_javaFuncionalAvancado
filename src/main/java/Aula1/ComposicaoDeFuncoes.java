@@ -1,4 +1,4 @@
-import imperativoEFuncional.Funcional;
+package Aula1;
 
 import java.util.Arrays;
 

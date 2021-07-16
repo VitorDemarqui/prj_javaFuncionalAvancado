@@ -1,3 +1,5 @@
+package Aula1;
+
 import java.util.function.UnaryOperator;
 
 public class Imutabilidade {

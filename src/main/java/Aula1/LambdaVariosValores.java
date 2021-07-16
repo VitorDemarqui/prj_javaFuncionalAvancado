@@ -1,3 +1,5 @@
+package Aula1;
+
 public class LambdaVariosValores {
 
     public static void main(String[] args){

@@ -1,3 +1,5 @@
+package Aula1;
+
 import java.util.function.BiPredicate;
 
 public class FuncoesPuras {

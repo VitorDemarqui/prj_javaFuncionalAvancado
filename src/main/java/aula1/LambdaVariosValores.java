@@ -1,4 +1,4 @@
-package Aula1;
+package aula1;
 
 public class LambdaVariosValores {
 

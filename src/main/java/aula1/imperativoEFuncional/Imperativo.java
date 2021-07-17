@@ -1,4 +1,4 @@
-package Aula1.imperativoEFuncional;
+package aula1.imperativoEFuncional;
 
 public class Imperativo {
     public static void main(String[] args){
